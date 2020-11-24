@@ -38,7 +38,7 @@ int main()
 	//std::cout << "\nMost valuable holding:\n";
 	/*===============================*/
 	//Time time1;
-	//Time time2;
+	//Time tim¡££¬e2;
 	//Time time3 = time1 + time2;
 	/*===============================*/
 	Time time1;
