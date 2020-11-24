@@ -21,9 +21,24 @@
     <ClCompile Include="stock00.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="usestock0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mytime0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stock00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mytime0.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

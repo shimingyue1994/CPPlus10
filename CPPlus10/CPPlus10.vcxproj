@@ -140,9 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CPPlus10.cpp" />
+    <ClCompile Include="mytime0.cpp" />
+    <ClCompile Include="stack.cpp" />
     <ClCompile Include="stock00.cpp" />
+    <ClCompile Include="usestock0.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="mytime0.h" />
+    <ClInclude Include="stack.h" />
     <ClInclude Include="stock00.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
